@@ -5,7 +5,7 @@ it displays user's profile details and a list of repositories.
 
 Create-react-app was used to create the project.
 
-I used an implementation of the simple redux store from here - [https://github.com/jhhayashi/react-native-course/blob/master/lecture/9-redux/simpleRedux/store.js]()
+I used an implementation of the simple redux store from here - [https://github.com/jhhayashi/react-native-course/blob/master/lecture/9-redux/simpleRedux/store.js](https://github.com/jhhayashi/react-native-course/blob/master/lecture/9-redux/simpleRedux/store.js)
 to cache users and repositories.
 
 My priority was not the UI, but rather to make the application work without any bugs.
